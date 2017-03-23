@@ -26,8 +26,8 @@ UltraVNC_1_2_12_X64_Setup.exe
 # ultravnc.ini
 
 [ultravnc]
-passwd=494015F9A35E8B2245
-passwd2=1B2A1BCF17E01EEF33
+passwd=xxxxx
+passwd2=xxxxxx
 [admin]
 UseRegistry=0
 MSLogonRequired=0
